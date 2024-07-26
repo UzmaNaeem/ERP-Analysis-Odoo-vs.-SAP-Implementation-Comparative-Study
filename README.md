@@ -50,7 +50,7 @@ The data for this project was gathered through direct interaction with both Odoo
 
 The ERP Exploration Project highlights the strengths and limitations of both Odoo and SAP. Odoo offers a more user-friendly and intuitive experience, making it suitable for businesses seeking ease of use and quick implementation. SAP provides a powerful and flexible solution with advanced functionalities but may require more training and setup. This comparative analysis aims to help organizations make informed decisions based on their specific needs and operational requirements.
 
-For detailed insights, watch the project videos [here](link-to-playlist).
+For detailed insights, watch the project videos [here]([https://www.youtube.com/watch?v=6AQYwDg9XgI&list=PLySTiUNbnflyMrx9Xvns1W7iczDPdwvCT]).
 
 ---
 
